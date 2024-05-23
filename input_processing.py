@@ -1,5 +1,5 @@
 # input_processing.py
-# Adeel Ahmed Salman, ENSF 692 P24
+# Adeel_Ahmed_Salman, ENSF 692 P24
 # A terminal-based application for determining a course of action based on detected obstacles.
 
 class Sensor:
